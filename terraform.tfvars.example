@@ -1,0 +1,4 @@
+aws_region         = "us-east-1"
+enable_guardduty   = false
+enable_aws_config  = false
+enable_securityhub = false
